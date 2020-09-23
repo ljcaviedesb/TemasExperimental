@@ -12,4 +12,11 @@ Tareas: 1. Plot the number of average interactions per bunch-crossing (mu_averag
         5. Interpret the meaning of each variable
         6. What is "Particle PDG ID"?
         
-Los ejercicios **1, 2, 3** y **4** Se encuentran desarrollados en ''
+Los ejercicios **1, 2, 3** y **4** Se encuentran desarrollados en 'Tracks_Clusters_cpp.ipynb'.
+ 
+ ***Partículas PDG ID***
+ Primero tenemos que saber qué es **PDG**.  Este PDGD es un Grupo de Datos de Partículas
+ El esquema de numeración de partículas del PDG por el Grupo de Datos de Partículas (PDG) asigna un código único a cada tipo de partícula. Estos códigos se llaman comúnmente PDGID (o PDG ID). Se utilizan ampliamente en la física de partículas, por ejemplo, en todos los modernos generadores de eventos de MC. La numeración incluye todas las partículas elementales conocidas (electrones, bosones W, ...), partículas compuestas (mesones, bariones, ...) y núcleos atómicos. También proporciona códigos para partículas hipotéticas más allá del Modelo Estándar. La numeración de los hadrones sigue un esquema lógico basado en su contenido de quarks y números cuánticos, de modo que se pueden numerar hadrones arbitrarios. A las partículas se les asigna un PDGID positivo, a las antipartículas uno negativo. Se utiliza la convención PDG para los mesones, de modo que K+ y B+ se definen como partículas (no antipartículas).
+
+
+Traducción realizada con la versión gratuita del traductor www.DeepL.com/Translator
