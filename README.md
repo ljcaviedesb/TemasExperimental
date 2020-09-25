@@ -16,9 +16,9 @@ Los ejercicios **1, 2, 3** y **4** Se encuentran desarrollados en 'Tracks_Cluste
  ***Interpretación***
  Respecto a la interpretación de las gráficas
  
- 
- Las variables pt, eta, phi y m representan el momento transverso, la pseudo rapidez, el ángulo azimutal y la masa, sea esta para una particula, para una traza o para un cluster, mientras que la variable Tracks_vtx se refiere a el vertice al cual pertenece la traza.
- 
+ La grafica de Track_m muestra una sola partícula con masa promedio 139.5 MeV y en la tabla de datos de la pág oficial del PDG encuentro que esa masa corresponde al pión con masa 139.57039 +- 0.00018 MeV. Y tiene sentido porque en la gráfica de partículas PDG ID efectivamente muestran la partícula y anti partícula pión.
+ Si nos vamos a la gráfica de masa de las partículas hay una partícula cun muy poca masa, podemos pensar que es un electrón, además que la gráfica de PDG ID muestra que hay electrones. Hay otra partícula con masa cercana a 1000 MeV, encontré que la partícula phi(1020) tiene masa 1019.461 +- 0.016 MeV y decae en K0L y K0S, o puede ser la partícula a0(980) con masa 980 +- 20MeV la cual puede decaer en K+ o K-.
+
  
  ***Partículas PDG ID***
 
