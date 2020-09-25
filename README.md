@@ -16,7 +16,9 @@ Los ejercicios **1, 2, 3** y **4** Se encuentran desarrollados en 'Tracks_Cluste
  
  ***Partículas PDG ID***
 
-Primero tenemos que saber qué es **PDG**.  Este PDG es el Grupo de Datos de Partículas que tiene un esquema de numeración de partículas a las cuales le asigna un código dependiento el tipo de partícula, además este código es único. Estos códigos se conocen como **PDG ID**, el cual es positivo cuando es partícula y negativo cuando es antipartícula. Su sitio oficial es https://pdg.lbl.gov
+Primero tenemos que saber qué es **PDG**.  Este PDG es el Grupo de Datos de Partículas que tiene un esquema de numeración de partículas a las cuales le asigna un código dependiento el tipo de partícula, además este código es único. Estos códigos se conocen como **PDG ID**, el cual es positivo cuando es partícula y negativo cuando es antipartícula. Su sitio oficial es https://pdg.lbl.gov. Tambien se pueden utilizar https://rivet.hepforge.org/code/1.3.0/a00660.html o https://twiki.cern.ch/twiki/bin/view/Main/PdgId
+
+Los partículas son entonces, según los datos que genera el código son tal vez
 
 
 
