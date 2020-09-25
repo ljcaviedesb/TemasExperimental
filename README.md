@@ -13,6 +13,12 @@ Tareas: 1. Plot the number of average interactions per bunch-crossing (mu_averag
         6. What is "Particle PDG ID"?
         
 Los ejercicios **1, 2, 3** y **4** Se encuentran desarrollados en 'Tracks_Clusters_cpp.ipynb'.
+ ***Interpretación***
+ Respecto a la interpretación de las gráficas
+ 
+ 
+ Las variables pt, eta, phi y m representan el momento transverso, la pseudo rapidez, el ángulo azimutal y la masa, sea esta para una particula, para una traza o para un cluster, mientras que la variable Tracks_vtx se refiere a el vertice al cual pertenece la traza.
+ 
  
  ***Partículas PDG ID***
 
