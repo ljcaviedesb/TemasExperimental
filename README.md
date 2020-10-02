@@ -26,22 +26,21 @@ Primero tenemos que saber qué es **PDG**.  Este PDG es el Grupo de Datos de Par
 
 Los partículas son entonces, según los datos que genera el código son:
 
-PDG ID -3334: OmegaPlus\\
-PDG ID  3334: OmegaMinus\\
-PDG ID -3122: LamdaBar\\
-PDG ID  3122: Lamda\\
-PDG ID -2212: AntiProtón\\
-PDG ID  2212: Protón\\
-PDG ID -2112: AntiNeutrón\\
-PDG ID  2112: Neutrón\\
-PDG ID  -321: K-\\
-PDG ID  -321: K+\\
-PDG ID  -211: Pi-\\
-PDG ID   211: Pi+\\
-PDG ID   -11: Positrón\\
-PDG ID    11: Electrón\\
-PDG ID   130: K0L\\
-
+PDG ID -3334: OmegaPlus\
+PDG ID  3334: OmegaMinus\
+PDG ID -3122: LamdaBar\
+PDG ID  3122: Lamda\
+PDG ID -2212: AntiProtón\
+PDG ID  2212: Protón\
+PDG ID -2112: AntiNeutrón\
+PDG ID  2112: Neutrón\
+PDG ID  -321: K-\
+PDG ID  -321: K+\
+PDG ID  -211: Pi-\
+PDG ID   211: Pi+\
+PDG ID   -11: Positrón\
+PDG ID    11: Electrón\
+PDG ID   130: K0L\
 PDG ID   321: K0S
 
 
