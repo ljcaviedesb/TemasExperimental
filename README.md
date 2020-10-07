@@ -44,3 +44,9 @@ PDG ID   130: K0L\
 PDG ID   321: K0S
 
 
+## 2 de Octubre ##
+
+El código relacionado a esta parte ess el  Jets_cpp_1.\
+En la segunda parte se grafícan los perfiles del piluep de los Reco jets y Truth jets.
+El pileup es
+
