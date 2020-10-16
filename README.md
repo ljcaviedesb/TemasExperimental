@@ -48,5 +48,5 @@ PDG ID   321: K0S
 
 El código relacionado a esta parte ess el  Jets_cpp_1.\
 En la segunda parte se grafícan los perfiles del piluep de los Reco jets y Truth jets.
-El pileup es
+En esrtas gráficas se puede ver qué tanto ruido hay entre los jets reconstruidos y los que se generaron en la colisión
 
